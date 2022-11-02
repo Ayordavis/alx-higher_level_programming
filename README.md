@@ -1,1 +1,3 @@
-# alx-higher_level_programming
+0x0E SQL more quries
+
+Ayordavis Oluwole 
