@@ -1,3 +1,1 @@
-0x0E SQL more quries
-
-Ayordavis Oluwole 
+python network o
